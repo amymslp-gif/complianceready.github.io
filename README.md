@@ -403,26 +403,19 @@ Compliance Deadline: November 2026 (180-day window)
 
 Getting Started
 
-1.
-Review the ComplianceReady landing page
+1. Review the ComplianceReady landing page
 
-2.
-Choose your package (Core, Professional, or Enterprise)
+2. Choose your package (Core, Professional, or Enterprise)
 
-3.
-Contact us to purchase
+3. Contact us to purchase
 
-4.
-Receive all 70+ templates and implementation guides
+4. Receive all 70+ templates and implementation guides
 
-5.
-Customize templates for your organization
+5. Customize templates for your organization
 
-6.
-Implement using the 16-week roadmap
+6. Implement using the 16-week roadmap
 
-7.
-Launch with confidence
+7. Launch with confidence
 
 
 
